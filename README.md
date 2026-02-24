@@ -47,18 +47,18 @@ Generates ATS-friendly resumes using AI.
 
 ---
 
-<!-- <h2>Stats</h2>
+<h2>Stats</h2>
 
 <p align="center">
   <a href="https://github.com/Pavan17gowda" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Pavan17gowda&show_icons=true&theme=tokyonight"
+      src="https://stats.hyo.dev/api/github-stats-advanced?login=Pavan17gowda"
       alt="GitHub Stats"
       width="750"
       height="300"
     />
   </a>
-</p> -->
+</p> 
 
 ---
 
