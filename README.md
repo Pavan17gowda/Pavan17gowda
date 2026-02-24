@@ -20,7 +20,7 @@ Currently focusing on **React, Node.js, and PostgreSQL**.
 <h2><strong>Featured Projects</strong></h2>
 
 <h3>💊 Medicine Recommendation  
-<a href="https://github.com/Pavan17gowda/medicine-recommendation" target="_blank">🔗</a></h3>
+<a href="https://github.com/Pavan17gowda/drug-recommendation.git" target="_blank">🔗</a></h3>
 Web app that recommends medicines based on symptoms and user inputs.
 
 <h3>🌾 AgriConnect  
