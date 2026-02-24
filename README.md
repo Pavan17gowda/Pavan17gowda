@@ -47,7 +47,7 @@ Generates ATS-friendly resumes using AI.
 
 ---
 
-<h2>Stats</h2>
+<!-- <h2>Stats</h2>
 
 <p align="center">
   <a href="https://github.com/Pavan17gowda" target="_blank">
@@ -58,7 +58,7 @@ Generates ATS-friendly resumes using AI.
       height="300"
     />
   </a>
-</p>
+</p> -->
 
 ---
 
