@@ -65,7 +65,7 @@ Generates ATS-friendly resumes using AI.
 <h2><strong>Connect</strong></h2>
 
 <p align="left">
-  <a href="https://leetcode.com/u/WyoFLtd7QP/" target="_blank">
+  <a href="https://leetcode.com/u/Pavan17gowda/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35"/>
   </a>
   &nbsp;
