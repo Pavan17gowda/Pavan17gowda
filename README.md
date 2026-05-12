@@ -14,9 +14,9 @@
 <div align="left" style="position: relative; width: 100%;">
 
   <p style="width: 70%;">
-    Full Stack Developer interested in building real-world applications, 
+    Full Stack Developer interested in building real-world applications,<br>
     learning system design, and writing clean, scalable code.
-    <br><br>
+    <br>
     Currently focusing on <strong>React, Node.js, and PostgreSQL</strong>.
   </p>
 
