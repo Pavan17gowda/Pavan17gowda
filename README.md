@@ -75,14 +75,6 @@ Generates ATS-friendly resumes using AI.
   </a>
 </p> 
 
-<h2>💻 LeetCode Stats</h2>
-
-<p align="center">
-  <img 
-    src="https://leetcode.card.workers.dev/Pavan17gowda?theme=dark&font=baloo&extension=null" 
-    alt="LeetCode Stats"
-  />
-</p>
 ---
 
 <h2><strong>Connect</strong></h2>
