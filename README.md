@@ -11,11 +11,13 @@
 
 <h2><strong>About Me</strong></h2>
 
-Full Stack Developer interested in building real-world applications,  <p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200" />
-</p>
+Full Stack Developer interested in building real-world applications, 
 learning system design, and writing clean, scalable code.  
 Currently focusing on **React, Node.js, and PostgreSQL**.
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200" />
+</p>
+
 
 ---
 
