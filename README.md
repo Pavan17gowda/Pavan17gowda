@@ -11,25 +11,28 @@
 
 <h2><strong>About Me</strong></h2>
 
-<div align="left" style="position: relative; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-  <p style="width: 70%;">
-    Full Stack Developer interested in building real-world applications,<br>
-    learning system design, and writing clean, scalable code.
-    <br>
-    Currently focusing on <strong>React, Node.js, and PostgreSQL</strong>.
-  </p>
+  <!-- Text -->
+  <div>
+    <p>
+      Full Stack Developer interested in building real-world applications,<br>
+      learning system design, and writing clean, scalable code.
+      <br><br>
+      Currently focusing on <strong>React, Node.js, and PostgreSQL</strong>.
+    </p>
+  </div>
 
-  <!-- GIF on extreme right -->
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"
-    width="200"
-    alt="Developer GIF"
-    style="position: right; top: 0; right: 100;"
-  />
+  <!-- GIF -->
+  <div>
+    <img 
+      src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"
+      width="220"
+      alt="Developer GIF"
+    />
+  </div>
 
 </div>
----
 
 <h2><strong>Featured Projects</strong></h2>
 
