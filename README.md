@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
-  <img src="./git-hub-banner.gif" width="100%" alt="Animated Developer Banner" />
+  <img src="C:\Users\pavan\Downloads\git-hub-banner.gif" width="100%" alt="Animated Developer Banner" />
 </p>
 
 <p align="left">
