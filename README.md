@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74fc968d-bb31-4bba-b3da-0fb71653c245" />
+  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/74fc968d-bb31-4bba-b3da-0fb71653c245" />
 
 </p>
 
