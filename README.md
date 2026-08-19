@@ -2,10 +2,8 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
-  <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/74fc968d-bb31-4bba-b3da-0fb71653c245" />
-
+  <img src="./git-hub-banner.gif" width="100%" alt="Animated Developer Banner" />
 </p>
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pavan17gowda&style=flat-square&color=blue" alt="profile views" />
